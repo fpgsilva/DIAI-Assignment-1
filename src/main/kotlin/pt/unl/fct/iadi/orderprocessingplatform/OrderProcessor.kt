@@ -1,6 +1,5 @@
 package pt.unl.fct.iadi.orderprocessingplatform
 
-import org.springframework.stereotype.Service
 import org.springframework.boot.CommandLineRunner
 import org.springframework.stereotype.Component
 import pt.unl.fct.iadi.orderprocessingplatform.domain.Order

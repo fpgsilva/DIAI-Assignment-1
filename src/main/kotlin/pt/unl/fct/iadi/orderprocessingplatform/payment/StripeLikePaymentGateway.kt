@@ -2,7 +2,6 @@ package pt.unl.fct.iadi.orderprocessingplatform.payment
 
 import org.springframework.context.annotation.Profile
 import org.springframework.stereotype.Component
-import org.springframework.stereotype.Service
 import pt.unl.fct.iadi.orderprocessingplatform.domain.PaymentRequest
 import pt.unl.fct.iadi.orderprocessingplatform.domain.Receipt
 import pt.unl.fct.iadi.orderprocessingplatform.domain.ReceiptStatus

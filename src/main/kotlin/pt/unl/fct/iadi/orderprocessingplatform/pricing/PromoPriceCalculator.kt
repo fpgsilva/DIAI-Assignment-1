@@ -1,7 +1,6 @@
 package pt.unl.fct.iadi.orderprocessingplatform.pricing
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty
-import org.springframework.stereotype.Component
 import org.springframework.stereotype.Service
 import pt.unl.fct.iadi.orderprocessingplatform.domain.Order
 import java.math.BigDecimal

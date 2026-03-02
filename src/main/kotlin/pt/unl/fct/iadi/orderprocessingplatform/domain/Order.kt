@@ -9,4 +9,12 @@ class Order        (
         val userId: String,
         val createdAt: Instant)
 {
+
+    class OrderItem(
+            val productId: String,
+            val quantity: Int,
+            val price: Double
+    )
+
 }
+
